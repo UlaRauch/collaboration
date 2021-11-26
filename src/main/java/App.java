@@ -6,6 +6,10 @@ public class App {
     int a = 12;
     int z = 1;
 
+    public static void messageVonUla() {
+        System.out.println("Hallo Florian!");
+    }
+
 
     public void add() {
         z = x+y;
