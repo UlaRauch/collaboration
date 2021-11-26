@@ -13,6 +13,7 @@ public class App {
 
     public void add() {
         z = x+y;
+        a = y +z;
     }
 
 }
