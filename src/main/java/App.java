@@ -1,3 +1,5 @@
+
+
 public class App {
     int x = 1;
     int y = 17;
@@ -5,5 +7,8 @@ public class App {
     int z = 1;
 
 
+    public void add() {
+        z = x+y;
+    }
 
 }
